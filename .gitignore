@@ -1,0 +1,10 @@
+# Logs
+*.log
+logs/
+
+#secrets
+*.env
+
+#os-files
+.DS_Store
+
