@@ -2,3 +2,4 @@
 Bug fix: added validation
 Feature: login validation added
 "Different line from feature B
+"line2 from master
