@@ -5,3 +5,4 @@ Feature: login validation added
 "line2 from master
 line 3 from master
 lin4 from master
+lin5 from master
