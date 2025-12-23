@@ -4,3 +4,4 @@ Feature: login validation added
 "Different line from feature B
 "line2 from master
 line 3 from master
+lin4 from master
